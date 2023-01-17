@@ -1,6 +1,6 @@
 # 🎉 Docker Zabbix
 
-Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+Zabbix is an open-source monitoring software for IT infrastructures, it allows monitoring of various metrics, alerting and visualization, it supports a wide range of platforms and technologies.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
